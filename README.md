@@ -2,6 +2,8 @@
 
 This tool allows you to easily modify the creation, access, and modification timestamps of files on Windows systems. It's particularly useful for changing timestamps of executable files or any other file type.
 
+![picture](https://i.imgur.com/AZDrtUO.png)
+
 ## Features
 
 - Change creation, last access, and last modification timestamps
